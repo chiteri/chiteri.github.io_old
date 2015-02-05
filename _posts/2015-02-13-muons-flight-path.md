@@ -87,7 +87,7 @@ __~Michelle Tongo__
 [8]: http://cms.web.cern.ch/news/cms-public-data-activity-scoops-prize-nairobi "C.M.S collaboration's news item, SHD Nairobi - 2012"
 [9]: http://matplotlib.org/basemap/ "BaseMaps"
 [10]: http://matplotlib.org/ "MatPlotLib"
-[11]: http://www.scipy.org/ "SciPy"
+[11]: http://www.scipy.org/ "SciPy, Scientific Python"
 [12]: http://home.web.cern.ch/about "European Centre for Nuclear Research, CERN"
 [13]: http://cms.web.cern.ch/news/what-cms "Compact Muon Solenoid experiment, C.M.S"
 [14]: https://www.ffmpeg.org/about.html "FFMPEG, multimedia compression tool"
