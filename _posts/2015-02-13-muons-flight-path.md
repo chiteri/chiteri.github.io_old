@@ -67,7 +67,7 @@ In an interview with [Martin A. Chiteri][3], a Software Developer by profession 
 
 >For example, I can learn what people do- or do not know about particle physics. Or what misconceptions do they have about how science works. Then I can try to explain these scientific concepts…but I don’t always do a good job!
 
->So at an SHD [I get to learn how better to explain these topics[[21]. Do I need animation? Do I need sound? Should I use different words or language to better explain these topics?
+>So at an SHD [I get to learn how better to explain these topics][21]. Do I need animation? Do I need sound? Should I use different words or language to better explain these topics?
 
 >In addition, I get to work with people like Martin A. Chiteri and [Morris][22] who help me find a better way to explain these concepts, whether through a video like the ‘Muons Flight Path’ or some other hack.
 
