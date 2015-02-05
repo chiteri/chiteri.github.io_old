@@ -1,118 +1,18 @@
-<!DOCTYPE html> 
+---
+layout: default
+---
 
-<!-- saved from url=(0062)http://twitter.github.io/bootstrap/examples/justified-nav.html -->
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta charset="utf-8"> 
-    <title> Martin Akolo Chiteri's Web Logs </title> 
-    <meta name="description" content="Martin Akolo Chiteri -- Web Logs">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="Kenyan Geek : Chiteri, Martin Akolo, Personal weblog" />
-    <meta name="author" content="Chiteri, Martin Akolo (@chiteri) / chiteri@geek.co.ke || martin.chiteri@gmail.com">
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">    
+      
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
-    <!-- Le styles -->
-    <link href="/assets/styles/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/assets/styles/default.css" rel="stylesheet">
-    <link href="/assets/styles/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
-
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      <script src="../assets/js/html5shiv.js"></script>
-    <![endif]-->
-
-    <!-- Fav and touch icons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://twitter.github.io/bootstrap/assets/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://twitter.github.io/bootstrap/assets/ico/apple-touch-icon-114-precomposed.png">
-      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://twitter.github.io/bootstrap/assets/ico/apple-touch-icon-72-precomposed.png">
-                    <link rel="apple-touch-icon-precomposed" href="http://twitter.github.io/bootstrap/assets/ico/apple-touch-icon-57-precomposed.png">
-	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-	<link rel="icon" href="/favicon.ico" type="image/x-icon">
-<!-- Google analytics code --> 
-<script type="text/javascript">
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-42892339-1', 'geek.co.ke');
-  ga('send', 'pageview');
-
-</script>
-<!-- End Google analytics code --> 
- 
- </head>
-
-  <body>
-
-    <div class="container">
-
-      <div class="masthead">
-        <h3 class="muted"> <a href="/">.Chiteri's blog </a> </h3>
-        <div class="navbar">
-          <div class="navbar-inner">
-            <div class="container">
-              <ul class="nav">
-                <li class="active"><a href="/weblog/"> Weblog </a></li>
-                <li><a href="about/">About</a></li> 
-                <li><a href="http://www.flickr.com/photos/mchiteri/"> Photos</a></li>
-                <li><a href="mailto:chiteri@geek.co.ke">Contact</a></li>
-                <!-- <li><a href="http://twitter.github.io/bootstrap/examples/justified-nav.html#">Downloads</a></li>
-                <li><a href="http://twitter.github.io/bootstrap/examples/justified-nav.html#">Links</a></li>
-                <li><a href="http://twitter.github.io/bootstrap/examples/justified-nav.html#">Gallery</a></li> --> 
-              </ul>
-            </div>
-          </div>
-        </div><!-- /.navbar -->
+      <div class="entry">
+        {{ post.content | truncatewords:200 }}
       </div>
-
-      <!-- Jumbotron --> 
-	 
-		
-	  <h4> <a href="#"> Welcome to my personal logs on the Web </a> </h4> <br />
-      <!-- <hr> --> 
-
-      <!-- Example row of columns -->
-      <div class="row-fluid">
-        <div class="span12">
-          <!-- <h2>Heading</h2> --> 
-          <p> My name is Martin Akolo Chiteri and I am a Computer programmer from Thika town in Kenya. </p> 
-	  
-	  <p> For the last two years, I have helped in organizing <a href="http://nairobi.sciencehackday.com/"> a local Science event</a> that is held annually in Nairobi, the Capital city of Kenya. </p> 
-
-	  <p> At the same time, I have been involved in the planning of <a href="http://www.python.org/">Python</a> and <a href="http://www.openstack.org/">Open-stack</a> meet-ups in Nairobi. </p>
-
-	  <p> In the recent past, my main area of focus has been in developing applications for the World-Wide Web. My most favourite authoring tools have been Python, the language interpreter and <a href="https://www.djangoproject.com/">django</a>, a high-level Web-dev framework built for it. I was also extremely fortunate to be invited to <a href="http://home.web.cern.ch/">CERN</a>, the European Particle Physics laboratory, to work with <a href="http://first-website.web.cern.ch/blog/line-mode-browser-dev-days-participants-announced">a group of other highly talented Web developers</a> on a project to restore <a href="http://line-mode.cern.ch/"> parts of the original World-wide Web system's server and website.</a> </p>
-
-	  <p> I used to work for <a href="http://www.indra.es/">an international I.T firm</a> which specialized in writing and maintaining applications for Utility companies (Water and Electrical power distributors) in the Sub-Saharan region of Africa. Right now I am doing freelance work on the Web. </p>
-	 <hr />
-
-      </div>
-	  
-      <div class="footer"> 
-		<span id="site-generator" class="pull-left">
-            <a href="https://github.com/chiteri/chiteri.github.io" alt="Weblog's sources at Github" > <strong> Source code </strong> <em> @ Github </em> </a> 
-         </span><!-- #site-generator -->
-        <span class="pull-right"> <h6> A Kenyan Geek © 2013 </h6> </span>
-      </div>
-
-    </div> <!-- /container -->
-
-    <!-- Le javascript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="/static/scripts/bootstrap/jquery-2.0.2.min.js"></script>
-    <!-- <script src="/static/scripts/bootstrap/bootstrap-transition.js"></script>
-    <script src="/static/scripts/bootstrap/bootstrap-alert.js"></script>
-    <script src="/static/scripts/bootstrap/bootstrap-modal.js"></script>
-    <script src="/static/scripts/bootstrap/bootstrap-dropdown.js"></script>
-    <script src="/static/scripts/bootstrap/bootstrap-scrollspy.js"></script>
-    <script src="/static/scripts/bootstrap/bootstrap-tab.js"></script>
-    <script src="/static/scripts/bootstrap/bootstrap-tooltip.js"></script>
-    <script src="/static/scripts/bootstrap/bootstrap-popover.js"></script>
-    <script src="/static/scripts/bootstrap/bootstrap-button.js"></script>
-    <script src="/static/scripts/bootstrap/bootstrap-collapse.js"></script>
-    <script src="/static/scripts/bootstrap/bootstrap-carousel.js"></script>
-    <script src="/static/scripts/bootstrap/bootstrap-typeahead.js"></script> --> 
-
-	</body>
-</html>
-
+      
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
