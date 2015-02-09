@@ -7,7 +7,7 @@ layout: default
     <article class="post">    
       
       <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-	  <p> <em> {{ post.date | date: "%-d %B %Y"}} <em> </p>
+	  <p> <em> {{ post.date | date: "%-d %B %Y"}} </em> </p>
       <div class="entry">
         {{ post.content | truncatewords:200 }}
       </div>
