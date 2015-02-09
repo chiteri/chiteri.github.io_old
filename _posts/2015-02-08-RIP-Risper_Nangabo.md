@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Rest In Peace Grandma
+title: So long Grandma
 category: personal 
 --- 
 One of the more notable events that took place in my life last year was [the passing on of my paternal grandmother] [0], kukhu (granny) Risper Nangabo Akolo. This happened on the 14th of September, 2014. She was fairly aged, 86 years old by then.  
 
-The cause of death had been health problems related to hypertension combined with diabetes. That started around the year 2010 when she was 82 years old. Kukhu Risper had been placed on medication ever since that time. She had gone into a commatose weeks before her demise. It was a painful loss nonetheless. My hope had been that she would get a few more years added to her life, maybe three to five on top of what she already had. 
+The cause of death had been health problems related to hypertension combined with diabetes. Those started around the year 2010 when she was 82 years old. Kukhu Risper had been placed on medical care ever since that time. She had gone into a commatose weeks before her demise. It was a painful loss nonetheless. My hope had been that she would get a few more years added to her life, maybe three to five on top of what she already had. 
 
 ![Photo of my grandmother, mother (seated) and my father and I standing]({{site.url}}/assets/images/Kukhu_Risper_mum_dad_and_I.png)
 
-Grandma had been very dear to my heart, with her being the last of my living grandparents. She was also the only one I had ever really known in person. Had briefly known my maternal grandmother, [Scholastica Nyangweso Amwayi][1], too but she died in the year 1985 when I was barely three years of age. 
+Grandma had been very dear to my heart, with her being the last of my living grandparents. She was also the only one I had ever really known in person. Had briefly encountered my maternal grandmother, [Scholastica Nyangweso Amwayi][1], too but she died in the year 1985 when I was barely three years of age. 
 
 Kukhu Risper had actually attended my bachelor's degree graduation ceremony on the 14th of September, 2007 at [Strathmore University][2]. That was exactly seven years before her death. She traveled to Nairobi  with her first son, [Richard Akolo Eyinda][3], more popularly known as uncle Obadiah. After the event we went to customarily have lunch together with my other uncle [Barnabas Amwayi][4] and auntie [Mically Omusamia][5] in Upper Hill Springs. 
 
