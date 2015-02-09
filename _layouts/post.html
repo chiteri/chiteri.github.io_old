@@ -3,7 +3,8 @@ layout: default
 ---
 
 <article class="post">
-  <h2>{{ page.title }}</h2>
+  <h2>{{ page.title }}</h2> 
+  <strong> Published on {{ page.date | date: "%-d %B %Y"}}</strong>
 
   <div class="entry">
     {{ content }}
