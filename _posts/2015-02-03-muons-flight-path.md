@@ -4,7 +4,7 @@ title: "Muons flight path, Science Hack day Nairobi - 2012"
 date:   2012-04-26 10:00:00
 --- 
 
-![Science hack day Nairobi, 2012 @ Demo time! - Photo Credit Matt Biddulph]({{site.url}}/assets/images/SHD_Nairobi_2012_demo_time.png)
+![Science hack day Nairobi, 2012 @ Demo time! - Photo Credit Matt Biddulph](/assets/images/SHD_Nairobi_2012_demo_time.png)
 
 __This article was originally published on [IT News Africa][0] and has been reposted here.__
 

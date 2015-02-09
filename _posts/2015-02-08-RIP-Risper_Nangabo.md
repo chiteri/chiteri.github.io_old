@@ -7,7 +7,7 @@ One of the more notable events that took place in my life last year was [the pas
 
 The cause of death had been health problems related to hypertension combined with diabetes. Those started around the year 2010 when she was 82 years old. Kukhu Risper had been placed on medical care ever since that time. She had gone into a comatose weeks before her demise. It was a painful loss nonetheless. My hope had been that she would get a few more years added to her life, maybe three to five on top of what she already had. 
 
-![Photo of my grandmother, mother (seated) and my father and I standing]({{site.url}}/assets/images/Kukhu_Risper_mum_dad_and_I.png)
+![Photo of my grandmother, mother (seated) and my father and I standing](/assets/images/Kukhu_Risper_mum_dad_and_I.png)
 
 Grandma had been very dear to my heart, with her being the last of my living grandparents. She was also the only one I had ever really known in person. Had briefly encountered my maternal grandmother, [Scholastica Nyangweso Amwayi][1], too but she died in the year 1985 when I was barely three years of age. 
 
