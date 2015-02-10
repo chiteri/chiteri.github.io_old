@@ -5,7 +5,7 @@ category: personal
 --- 
 One of the more notable events that took place in my life last year was [the passing on of my paternal grandmother] [0], kukhu (granny) Risper Nangabo Akolo. This happened on the 14th of September, 2014. She was fairly aged, 86 years old by then.  
 
-The cause of death had been health problems related to hypertension combined with diabetes. Her first serious hypertensive attack had happened in 1973 when she was 46. They strongly surfaced again around the year 2010 when she was 82 years old, only this time she also had diabetes. Kukhu Risper had been placed on medical care a couple of years before then. She had gone into a comatose weeks before her demise. It was a painful loss nonetheless. Our hope had been that she would get a few more years added to her life, maybe three to five on top of what she already had. 
+The cause of death had been health problems related to hypertension combined with diabetes. Her first serious hypertensive attack had happened in 1973 when she was 46. They strongly surfaced again around the year 2010 when she was 82 years old, only this time she also had diabetes. Kukhu Risper had been placed on medical care a couple of years prior. She had gone into a comatose weeks before her demise. It was a painful loss nonetheless. Our hope had been that she would get a few more years added to her life, maybe three to five on top of what she already had. 
 
 ![Photo of my grandmother, mother (seated) and my father and I standing](/assets/images/Kukhu_Risper_mum_dad_and_I.png)
 
