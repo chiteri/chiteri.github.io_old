@@ -17,13 +17,13 @@ It was at this place that I discovered her astonishing powers of memory. Kukhu R
 
 At the end of it, I felt quite humbled. There I was feeling highly educated and more "civilised" (just more modernized), "Ready to face the world" as is commonly said. Yet kukhu Risper who had never stepped into any formal classroom could put what the education system in my country so strongly promoted -- a total recollection of facts and reciting them verbatim -- to deep shame. I also came to the realization that this was a factor that had made grandma such a good story teller. She most probably passed that trait to me as a kid when my parents and I regularly visited her. During our stay, she would keep telling me fables at night [in her kitchen][6] after all her [other] [7] [grandchildren][8] had been put to sleep. This occurred while I sat holding a mug of fresh warm milk and listened to her intensely.
 
-You might wonder why all the seemingly favouritism that had been accorded to me. Well, I had been named "Akolo" after my grandfather [Samuel Akoolo Openda][8] which naturally made me her first choice since traditionally, I was her "husband" of sorts or rather a reincarnation of my grandpa :)
+You might wonder why all the seemingly favouritism that had been accorded to me. Well, I had been named "Akolo" after my grandfather [Samuel Akoolo Openda][8] which naturally made me her first choice. Traditionally, I was her "husband" of sorts or rather a reincarnation of my grandpa :)
 
 ~RIPRisperNangabo 
 
 _NOTES_ 
 
-	(1) I also had the good fortune to meet and know my maternal great grandmother. This was the mother to my maternal grandfather. Her name was Pefuli but I used to call her "kukhu wa kukhu" meaning a "grandmother to my grandmother". The main reason for this was that she used to appear older than my maternal grandmother. The name caught on very quickly even among her own grandchildren (my mum, aunties and uncles). She passed on in 1995 due to old age. 
+	(1) I also had the good fortune to meet and know my maternal great grandmother. This was the mother to my maternal grandfather. Her name was Pefuli but I used to call her "kukhu wa kukhu" meaning a "grandmother to my grandmother". The main reason for this was that she (quite natually) appeared older than my maternal grandmother. The name caught on very quickly even among her own grandchildren (my mum, aunties and uncles). She passed on in 1995 due to old age. 
 
 [0]: https://www.flickr.com/photos/mchiteri/sets/72157647750851895/ "Photo set of us giving our final tribute to our late paternal grandmother"
 [1]: https://www.flickr.com/photos/mchiteri/5010942717/in/set-72157626055297784 "Maternal grandma seated second from left with her daughters and. Those standing are her sons"
