@@ -20,8 +20,10 @@ At the end of it, I felt quite humbled. There I was feeling highly educated and 
 You might wonder why all the seemingly favouritism that had been accorded to me. Well, I had been named "Akolo" after my grandfather [Samuel Akoolo Openda][8] which naturally made me her first choice since traditionally, I was her "husband" of sorts or rather a reincarnation of my grandpa :)
 
 ~RIPRisperNangabo 
+
 _NOTES_ 
-> <sup>(1)</sup>I also had the good fortune to meet and know my maternal great grandmother. This was the mother to my maternal grandfather named Pefuli. I used to call her "kukhu wa kukhu" meaning a "grandmother to my grandmother". The main reason for this was that she used to appear older than my maternal grandmother. The name caught on very quickly even among her own grandchildren (my mum, aunties and uncles). She passed on in 1995 due to old age. 
+
+	<sup>(1)</sup>I also had the good fortune to meet and know my maternal great grandmother. This was the mother to my maternal grandfather named Pefuli. I used to call her "kukhu wa kukhu" meaning a "grandmother to my grandmother". The main reason for this was that she used to appear older than my maternal grandmother. The name caught on very quickly even among her own grandchildren (my mum, aunties and uncles). She passed on in 1995 due to old age. 
 
 [0]: https://www.flickr.com/photos/mchiteri/sets/72157647750851895/ "Photo set of us giving our final tribute to our late paternal grandmother"
 [1]: https://www.flickr.com/photos/mchiteri/5010942717/in/set-72157626055297784 "Maternal grandma seated second from left with her daughters and. Those standing are her sons"
