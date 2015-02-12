@@ -31,5 +31,5 @@ You might wonder why all the seemingly favouritism that had been accorded to me.
 [5]: http://youtu.be/tlhsWbNoavY "Aunty Mically Omusamia speaks on behalf of my mum, Gertrude Oranga Akolo"
 [6]: http://youtu.be/axTvRW7cRpg "Having a chat with grandma inside her kitchen in December 2010"
 [7]: https://www.flickr.com/photos/mchiteri/15132971469/in/set-72157647750851895 "All the granddaughters of kukhu Risper Nangabo present"
-[8]: https://www.flickr.com/photos/mchiteri/15132932440/in/set-72157647750851895 "Reverend Bernard Akhwale introducing kukhu Risper Nangabo's grandsons, his cousins"
+[8]: https://www.flickr.com/photos/mchiteri/15132889949/in/set-72157647750851895/ "Reverend Bernard Akhwale introducing kukhu Risper Nangabo's grandsons, his cousins"
 [9]: https://www.flickr.com/photos/mchiteri/15834030855/in/set-72157626055297784 "Samuel Akoolo Openda, our grandfather in 1936 aged 38"
