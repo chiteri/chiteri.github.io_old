@@ -3,15 +3,15 @@ layout: post
 title: So long Grandma
 category: personal 
 --- 
-One of the more notable events that took place in my life last year was [the passing on of my paternal grandmother] [0], kukhu (granny) Risper Nangabo Akolo. This happened on the 14th of September, 2014. She was fairly aged, 86 years old by then.  
+One of the more notable events that took place in my life last year was [the passing on of my paternal grandmother] [0], kukhu (granny) Risper Nangabo Akolo. This happened on the 14<sup>th</sup> of September, 2014. She was fairly aged, 86 years old by then.  
 
 The cause of death had been health problems related to hypertension combined with diabetes. Her first serious hypertensive attack had happened in 1973 when she was 46. They strongly surfaced again around the year 2010 when she was 82 years old, only this time she also had diabetes. Kukhu Risper had been placed on medical care a couple of years prior to that. She had gone into a comatose weeks before her demise. It was a painful loss nonetheless. Our hope had been that she would get a few more years added to her life, maybe three to five on top of those she had already lived. 
 
 ![Photo of my grandmother and mother (seated), my father and I standing in 1987 at Ramogi Studio, Nairobi](/assets/images/Kukhu_Risper_mum_dad_and_I.png)
 
-Grandma had been very dear to my heart, with her being the last of my living grandparents <sup>1</sup>. She was also the only one I had ever really known in person. Had briefly encountered my maternal grandmother, [Scholastica Nyangweso Amwayi][1], too but she died in the year 1987 when I was barely five years of age. 
+Grandma had been very dear to my heart, with her being the last of my living grandparents <sup>[1]</sup>. She was also the only one I had ever really known in person. Had briefly encountered my maternal grandmother, [Scholastica Nyangweso Amwayi][1], too but she died in the year 1987 when I was barely five years of age. 
 
-Kukhu Risper had actually attended my bachelor's degree graduation ceremony on the 14th of September, 2007 at [Strathmore University][2]. That was exactly seven years before her death. She travelled to Nairobi  with her first son, [Richard Eyinda Akolo][3], more popularly known as uncle Obadiah. After the event we went to customarily have lunch together with my other uncle [Barnabas Amwayi][4] and auntie [Mically Omusamia][5] in Upper Hill Springs. 
+Kukhu Risper had actually attended my bachelor's degree graduation ceremony on the 14<sup>th</sup> of September, 2007 at [Strathmore University][2]. That was exactly seven years before her death. She travelled to Nairobi  with her first son, [Richard Eyinda Akolo][3], more popularly known as uncle Obadiah. After the event we went to customarily have lunch together with my other uncle [Barnabas Amwayi][4] and auntie [Mically Omusamia][5] in Upper Hill Springs. 
 
 It was at this place that I discovered her astonishing powers of memory. Kukhu Risper could remember *every* significant event that had happened between my dad (her son) and my mum (her daughter in-law) with clarity that, to be quite frank was a little scary. ... The day my grandpa passed away ..., The day my father took mum, then his fiancé, to visit her at home for the first time ..., the first time I was taken to visit her at my ancestral village from Mombasa town as an infant ..., the day my dad fell sick ..., the day he passed on ..., why he passed on (all from her personal observations and all in agreement with the autopsy report)... She knew it all and could tell each of them accurately in the order of occurrence by year, month, week and day of week. Each and every one of them. She even used to bring herself to our home in Eldoret town for a visit all by herself in old age when still in good physical health after my father had died. I found that truly amazing!
 
@@ -20,8 +20,8 @@ At the end of it, I felt quite humbled. There I was feeling highly educated and 
 You might wonder why all the seemingly favouritism that had been accorded to me. Well, I had been named "Akolo" after my grandfather [Samuel Akoolo Openda][8] which naturally made me her first choice since traditionally, I was her "husband" of sorts or rather a reincarnation of my grandpa :)
 
 ~#RIPRisperNangabo 
-<ul>NOTES</ul>
-<sup>1</sup> I also had the good fortune to meet and know my maternal great grandmother. This was the mother to my maternal grandfather named Pefuli. I used to call her "kukhu wa kukhu" meaning a "grandmother to my grandmother" with the main reason being she used to appear older than my grandmother. The name caught on very quickly even among her own grandchildren (my mum, aunties and uncles). She passed on in 1995 due to old age. 
+####NOTES:
+<sup>[1]</sup>	I also had the good fortune to meet and know my maternal great grandmother. This was the mother to my maternal grandfather named Pefuli. I used to call her "kukhu wa kukhu" meaning a "grandmother to my grandmother". The main reason for this was that she used to appear older than my maternal grandmother. The name caught on very quickly even among her own grandchildren (my mum, aunties and uncles). She passed on in 1995 due to old age. 
 
 [0]: https://www.flickr.com/photos/mchiteri/sets/72157647750851895/ "Photo set of us giving our final tribute to our late paternal grandmother"
 [1]: https://www.flickr.com/photos/mchiteri/5010942717/in/set-72157626055297784 "Maternal grandma seated second from left with her daughters and. Those standing are her sons"
