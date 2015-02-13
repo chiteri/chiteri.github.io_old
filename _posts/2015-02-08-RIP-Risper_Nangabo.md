@@ -9,7 +9,7 @@ The cause of death had been health problems related to hypertension combined wit
 
 ![Photo of my grandmother and mother (seated), my father and I standing in 1987 at Ramogi Studio, Nairobi](/assets/images/Kukhu_Risper_mum_dad_and_I.png)
 
-_Photo of my grandmother (left) and mother (seated), my father and I standing in 1987 at Ramogi Studio, Nairobi - KENYA_ 
+<strong>Photo of my grandmother (left) and mother (seated), my father and I standing in 1987 at Ramogi Studio, Nairobi - KENYA</strong> 
 
 Grandma had been very dear to my heart, with her being the last of my living grandparents <sup>(1)</sup>. She was also the only one I had ever really known in person. Had briefly encountered my maternal grandmother, [Scholastica Nyangweso Amwayi][1], too but she died in the year 1987 when I was barely five years of age. 
 
@@ -21,11 +21,11 @@ At the end of it, I really felt humbled. There I was feeling highly educated and
 
 You might wonder why all the seemingly favouritism that had been accorded to me. Well, I had been named "Akolo" after my grandfather [Samuel Akoolo Openda][8] which intuitively made me her first choice. Traditionally, I was her "husband" of sorts or rather a reincarnation of my grandpa :)
 
-~RIPRisperNangabo 
+~#RIPRisperNangabo 
 
-_NOTES_ 
+<strong>NOTES:</strong>
 
-	(1) I also had the good fortune to meet and know my maternal great grandmother. This was the mother to my maternal grandfather, Mr. Peter-Charles Amwayi. Her name was Pefuli but I used to call her "kukhu wa kukhu" meaning a "grandmother to my grandmother". The main reason for this was that she quite naturally appeared older than my maternal grandmother. The name caught on very quickly even among her own grandchildren (my mum, aunties and uncles). She passed on in 1995 due to old age. 
+	(1) I also had the good fortune to meet and know my maternal great grandmother. She was the mother to my maternal grandfather, Mr. Peter-Charles Amwayi. Her name was Pefuli but I used to call her "kukhu wa kukhu" meaning a "grandmother to my grandmother". The main reason for this was that she quite naturally appeared older than my maternal grandmother. The name caught on very quickly even among her own grandchildren (my mum, aunties and uncles). She passed on in 1995 due to old age. 
 
 [0]: https://www.flickr.com/photos/mchiteri/sets/72157647750851895/ "Photo set of us giving our final tribute to our late paternal grandmother"
 [1]: https://www.flickr.com/photos/mchiteri/5010942717/in/set-72157626055297784 "Maternal grandma seated second from left with her daughters and. Those standing are her sons"
