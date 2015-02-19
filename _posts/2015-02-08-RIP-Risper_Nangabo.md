@@ -27,7 +27,7 @@ You might wonder why all the seemingly favouritism that had been accorded to me.
 
 	(1) I also had the good fortune to meet and know my maternal great grandmother. She was the mother to my maternal grandfather, Mr. Peter-Charles Amwayi. Her name was Florence "Flora" Obuchere Omukhunya but I used to call her "kukhu wa kukhu" meaning a "grandmother to my grandmother". The main reason for this was that she quite naturally appeared older than my maternal grandmother. The name caught on very quickly even among her own grandchildren (my mum, aunties and uncles). She passed on in July 1995 due to a possible heart failure aged 84. 
 	
-	(2) The name "Pefuli" was given to my maternal grandmother by her old lady friends who could not pronounce her baptismal name "Bavin" properly. She belonged to the _Church of God_ Christian denomination before converting to Catholicism when she got married to her husband also a Catholic. She acquired the name Scholastica after her wedding.
+	(2) The name "Pefuli" was given to my maternal grandmother by her old lady friends who could not pronounce her baptismal name, Bavin, properly. She belonged to the "Church of God" Christian denomination before converting to Catholicism when she got married to her husband, a member of the Roman Catholic church. She acquired the name Scholastica after her wedding and second baptism.
 
 [0]: https://www.flickr.com/photos/mchiteri/sets/72157647750851895/ "Photo set of us giving our final tribute to our late paternal grandmother"
 [1]: https://www.flickr.com/photos/mchiteri/5010942717/in/set-72157626055297784 "Maternal grandma seated second from left with her daughters and. Those standing are her sons"
