@@ -11,7 +11,7 @@ The cause of death had been health problems related to hypertension combined wit
 
 <strong>Photo of my grandmother (left) and mother (seated), my father and I standing in 1987 at Ramogi Studio, Nairobi - KENYA</strong> 
 
-Grandma had been very dear to my heart, with her being the last of my living grandparents <sup>(1)</sup>. She was also the only one I had ever really known in person. Had briefly encountered my maternal grandmother, [Scholastica Nyangweso Amwayi][1], too but she died in the year 1987 when I was barely five years of age. 
+Grandma had been very dear to my heart, with her being the last of my living grandparents <sup>(1)</sup>. She was also the only one I had ever really known in person. Had briefly encountered my maternal grandmother, [Scholastica "Pefuli"<sup>(2)</sup> Nyangweso Amwayi][1], too but she died in the year 1987 when I was barely five years of age. 
 
 Kukhu Risper had actually attended my bachelor's degree graduation ceremony on the 14<sup>th</sup> of September, 2007 at [Strathmore University][2]. That was exactly seven years before her death. She travelled to Nairobi  with her first son, [Richard Eyinda Akolo][3], more popularly known as uncle Obadiah. After the event we went to customarily have lunch together with my other uncle [Barnabas Amwayi][4] and auntie [Mically Omusamia][5] in Upper Hill Springs. 
 
@@ -25,7 +25,9 @@ You might wonder why all the seemingly favouritism that had been accorded to me.
 
 <strong>NOTES:</strong>
 
-	(1) I also had the good fortune to meet and know my maternal great grandmother. She was the mother to my maternal grandfather, Mr. Peter-Charles Amwayi. Her name was Pefuli but I used to call her "kukhu wa kukhu" meaning a "grandmother to my grandmother". The main reason for this was that she quite naturally appeared older than my maternal grandmother. The name caught on very quickly even among her own grandchildren (my mum, aunties and uncles). She passed on in 1995 due to old age. 
+	(1) I also had the good fortune to meet and know my maternal great grandmother. She was the mother to my maternal grandfather, Mr. Peter-Charles Amwayi. Her name was Florence "Flora" Obuchere Omukhunya but I used to call her "kukhu wa kukhu" meaning a "grandmother to my grandmother". The main reason for this was that she quite naturally appeared older than my maternal grandmother. The name caught on very quickly even among her own grandchildren (my mum, aunties and uncles). She passed on in July 1995 due to a possible heart failure aged 84. 
+	
+	(2) The name "Pefuli" was given to my maternal grandmother by her old lady friends who could not pronounce her baptismal name "Bavin" properly. She belonged to the _Church of God_ Christian denomination before converting to Catholicism when she got married to her husband also a Catholic. She acquired the name Scholastica after her wedding.
 
 [0]: https://www.flickr.com/photos/mchiteri/sets/72157647750851895/ "Photo set of us giving our final tribute to our late paternal grandmother"
 [1]: https://www.flickr.com/photos/mchiteri/5010942717/in/set-72157626055297784 "Maternal grandma seated second from left with her daughters and. Those standing are her sons"
